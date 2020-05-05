@@ -1,7 +1,5 @@
 
-# Project Title
-
-Pyramid of Testing // TDD II
+# Pyramid of Testing // TDD II
 
 ```
 Feature: Calculate the popularity of Indian gods in Mahabharata
@@ -58,3 +56,5 @@ mvn clean test
 ## Deployment
 
 Trunk based development
+
+* https://trunkbaseddevelopment.com/
