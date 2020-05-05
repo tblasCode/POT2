@@ -48,7 +48,7 @@ mvn package
 ## Running the tests
 
 ```
-mvn test
+mvn clean test
 ```
 
 
